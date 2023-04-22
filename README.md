@@ -1,19 +1,19 @@
-# Hi, I'm Jason Zhuang 👋
+# 👋 Hi, I'm Jason Zhuang
 
 [![Website](https://img.shields.io/website?label=blog.jasonzhuang.com&style=for-the-badge&url=https%3A%2F%2Fblog.jasonzhuang.com)](https://blog.jasonzhuang.com)
 
-## I'm a frontend engineer and guitar lover 🎸
+## 🎸 I'm a frontend engineer and guitar lover
 
 - 🌱 I’m currently learning design patterns
 - 📺 I love to watch anime and manga
 - 🌄 Check out the NFT gallery I created: [NFT Showroom](https://d3idtkbaj4rnb4.cloudfront.net) and mint my awesome Cutie Squid Collection by MetaMask.
 
-### Connect with me:
+### 📞 Connect with me:
 
 [![website](./img/email-light.svg)](https://blog.jasonzhuang.com#gh-dark-mode-only)
 [![website](./img/email-dark.svg)](https://blog.jasonzhuang.com#gh-light-mode-only)
 
-### Languages and Tools:
+### 🖥️ Languages and Tools:
 
 <img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" style="padding-right:10px;" />
 
@@ -54,6 +54,8 @@
 <br />
 <br />
 <br />
+
+---
 
 ### 📕 Latest Blog Posts
 

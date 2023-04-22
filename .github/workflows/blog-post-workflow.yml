@@ -4,13 +4,17 @@ on:
     # Fire at 00:00 AM on the last day of every month
     - cron: '0 0 0 L * ?'
   workflow_dispatch:
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.jasonzhuang.com/blog/rss.xml"
