@@ -8,11 +8,6 @@
 - 📺 I love to watch anime and manga
 - 🌄 Check out the NFT gallery I created: [NFT Showroom](https://d3idtkbaj4rnb4.cloudfront.net) and mint my awesome Cutie Squid Collection by MetaMask.
 
-### 📞 Connect with me:
-
-[![website](./img/email-light.svg)](https://blog.jasonzhuang.com#gh-dark-mode-only)
-[![website](./img/email-dark.svg)](https://blog.jasonzhuang.com#gh-light-mode-only)
-
 ### 🖥️ Languages and Tools:
 
 <img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" style="padding-right:10px;" />
@@ -55,6 +50,13 @@
 <br />
 <br />
 
+### 📞 Connect with me:
+
+[![website](./img/globe-light.svg)](https://blog.jasonzhuang.com#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](https://blog.jasonzhuang.com#gh-light-mode-only)
+[![email](./img/email-light.svg)](mailto:jason71708@gmail.com#gh-dark-mode-only)
+[![email](./img/email-dark.svg)](mailto:jason71708@gmail.com#gh-light-mode-only)
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -71,3 +73,4 @@
 <img align="left" alt="jason71708's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jason71708&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [website]: https://blog.jasonzhuang.com
+[email]: mailto:jason71708@gmail.com
