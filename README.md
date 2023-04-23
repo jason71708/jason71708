@@ -19,8 +19,8 @@
 [<img align="left" alt="NextJS" width="26px" src="./img/nextjs-light.svg" style="padding-right:10px;" />](https://nextjs.org#gh-dark-mode-only)
 [<img align="left" alt="NextJS" width="26px" src="./img/nextjs-dark.svg" style="padding-right:10px;" />](https://nextjs.org#gh-light-mode-only)
 
-[<img align="left" alt="ThreeJS" width="26px" src="./img/tailwindcss-light.svg" style="padding-right:10px;" />](https://tailwindcss.com/#gh-dark-mode-only)
-[<img align="left" alt="ThreeJS" width="26px" src="./img/tailwindcss-dark.svg" style="padding-right:10px;" />](https://tailwindcss.com/#gh-light-mode-only)
+[<img align="left" alt="ThreeJS" width="26px" src="./img/threejs-light.svg" style="padding-right:10px;" />](https://threejs.org#gh-dark-mode-only)
+[<img align="left" alt="ThreeJS" width="26px" src="./img/threejs-dark.svg" style="padding-right:10px;" />](https://threejs.org#gh-light-mode-only)
 
 <!-- <img align="left" alt="HTML5" width="26px" src="" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="" style="padding-right:10px;" /> -->
@@ -43,7 +43,8 @@
 <br />
 <br />
 
-<img align="left" alt="TailwindCSS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />
+[<img align="left" alt="TailwindCSS" width="60px" src="./img/tailwindcss-light.svg" style="padding-right:10px;" />](https://tailwindcss.com#gh-dark-mode-only)
+[<img align="left" alt="TailwindCSS" width="60px" src="./img/tailwindcss-dark.svg" style="padding-right:10px;" />](https://tailwindcss.com#gh-light-mode-only)
 
 [<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;" />](#gh-dark-mode-only)
 [<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />](#gh-light-mode-only)
