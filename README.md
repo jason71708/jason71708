@@ -65,11 +65,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Master TypeScript Mapped Types](https://blog.jasonzhuang.com/blog/2023/03/24/master-typescript-mapped-types)
 - [手機網頁的滿版可能跟你想的不同](https://blog.jasonzhuang.com/blog/2023/02/19/mobile-viewport-height-unit)
 - [從零開始的 2023 年 前端工程師 Mac 配置](https://blog.jasonzhuang.com/blog/2023/01/20/mac-setup-for-frontend-developer)
 - [TypeScript 進階 5 種技巧](https://blog.jasonzhuang.com/blog/2022/05/19/typescript-advance-5tips)
 - [Next.js 與 React.js 在圖檔引入上的差異。](https://blog.jasonzhuang.com/blog/2022/04/27/nextjs-react-import-svg)
-- [在手機瀏覽器上透過 Deep Link 打開其他應用程式](https://blog.jasonzhuang.com/blog/2022/03/06/open-app-from-browser-in-mobile)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more...](https://blog.jasonzhuang.com)
