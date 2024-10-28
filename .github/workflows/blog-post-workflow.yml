@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Fire at 00:00 AM on the last day of every month
-    - cron: '0 0 1 * *'
+    # Fire on Day 1 of every month
+    - cron: 0 0 1 * *
   workflow_dispatch:
 permissions:
   contents: write # To write the generated contents to the readme
