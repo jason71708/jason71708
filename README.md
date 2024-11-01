@@ -65,11 +65,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Master TypeScript Mapped Types](https://blog.jasonzhuang.com/blog/2023/03/24/master-typescript-mapped-types)
-- [手機網頁的滿版可能跟你想的不同](https://blog.jasonzhuang.com/blog/2023/02/19/mobile-viewport-height-unit)
-- [從零開始的 2023 年 前端工程師 Mac 配置](https://blog.jasonzhuang.com/blog/2023/01/20/mac-setup-for-frontend-developer)
-- [TypeScript 進階 5 種技巧](https://blog.jasonzhuang.com/blog/2022/05/19/typescript-advance-5tips)
-- [Next.js 與 React.js 在圖檔引入上的差異。](https://blog.jasonzhuang.com/blog/2022/04/27/nextjs-react-import-svg)
+- [Leetcode 79. Word Search 解法優化分享](https://blog.jasonzhuang.com/blog/2024/10/13/leetcode-79-word-search-optimized-solution)
+- [網站支援 RTL 排版](https://blog.jasonzhuang.com/blog/2024/09/12/web-rtl-fa-ar)
+- [Leetcode 215. Kth Largest Element in an Array 解法分享](https://blog.jasonzhuang.com/blog/2023/04/01/leetcode-215-kth-largest-element-in-an-array-solution)
+- [Master TypeScript Mapped Types](https://blog.jasonzhuang.com/blog/2023/03/24/master-typescript-mapped-types/backup-en)
+- [掌握 TypeScript 映射型別](https://blog.jasonzhuang.com/blog/2023/03/24/master-typescript-mapped-types)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more...](https://blog.jasonzhuang.com)
