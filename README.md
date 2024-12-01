@@ -65,10 +65,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [網頁在 App WebView 裡的一些兼容問題](https://blog.jasonzhuang.com/blog/2024/11/21/website-in-app-webview-problem)
 - [Leetcode 79. Word Search 解法優化分享](https://blog.jasonzhuang.com/blog/2024/10/13/leetcode-79-word-search-optimized-solution)
 - [網站支援 RTL 排版](https://blog.jasonzhuang.com/blog/2024/09/12/web-rtl-fa-ar)
 - [Leetcode 215. Kth Largest Element in an Array 解法分享](https://blog.jasonzhuang.com/blog/2023/04/01/leetcode-215-kth-largest-element-in-an-array-solution)
-- [Master TypeScript Mapped Types](https://blog.jasonzhuang.com/blog/2023/03/24/master-typescript-mapped-types/backup-en)
 - [掌握 TypeScript 映射型別](https://blog.jasonzhuang.com/blog/2023/03/24/master-typescript-mapped-types)
 <!-- BLOG-POST-LIST:END -->
 
